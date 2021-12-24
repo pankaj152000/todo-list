@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.ta{ 
+  resize: none;
+  
+}
+.input{
+  display: flex;
+  flex-direction: column;
+  
+}
+.total{
+    background-color: rgb(22, 232, 240);
+    text-align: center;
+}
